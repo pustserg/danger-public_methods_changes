@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["sergey@pustovalov.me"]
   spec.description   = "A short description of danger-public_methods_changes."
   spec.summary       = "A longer description of danger-public_methods_changes."
-  spec.homepage      = "https://github.com/Sergey Pustovalov/danger-public_methods_changes"
+  spec.homepage      = "https://github.com/pustserg/danger-public_methods_changes"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
